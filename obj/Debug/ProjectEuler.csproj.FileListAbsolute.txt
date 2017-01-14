@@ -1,0 +1,12 @@
+c:\users\jarvis\documents\visual studio 2015\Projects\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.exe.config
+c:\users\jarvis\documents\visual studio 2015\Projects\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.exe
+c:\users\jarvis\documents\visual studio 2015\Projects\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.pdb
+c:\users\jarvis\documents\visual studio 2015\Projects\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.csprojResolveAssemblyReference.cache
+c:\users\jarvis\documents\visual studio 2015\Projects\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.exe
+c:\users\jarvis\documents\visual studio 2015\Projects\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.pdb
+c:\users\jarvis\documents\visual studio 2015\Projects\ProjectEuler\ProjectEuler\bin\Debug\System.Reactive.Core.dll
+c:\users\jarvis\documents\visual studio 2015\Projects\ProjectEuler\ProjectEuler\bin\Debug\System.Reactive.Interfaces.dll
+c:\users\jarvis\documents\visual studio 2015\Projects\ProjectEuler\ProjectEuler\bin\Debug\System.Reactive.Linq.dll
+c:\users\jarvis\documents\visual studio 2015\Projects\ProjectEuler\ProjectEuler\bin\Debug\System.Reactive.Core.xml
+c:\users\jarvis\documents\visual studio 2015\Projects\ProjectEuler\ProjectEuler\bin\Debug\System.Reactive.Interfaces.xml
+c:\users\jarvis\documents\visual studio 2015\Projects\ProjectEuler\ProjectEuler\bin\Debug\System.Reactive.Linq.xml
